@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/Analytics-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Analytics-release/Analytics-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/FtcCommon-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/FtcCommon-release/FtcCommon-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/Hardware-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/Hardware-release/Hardware-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/ModernRobotics-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/ModernRobotics-release/ModernRobotics-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/RobotCore-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/RobotCore-release/RobotCore-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/WirelessP2p-release.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/exploded-aar/WirelessP2p-release/WirelessP2p-release.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/androidTest/androidTest.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/androidTest/androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/buildConfig.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/generated/source/buildConfig/buildConfig.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/androidTest/debug/debug.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/androidTest/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/full/debug/debug.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/intermediates/manifests/full/debug/debug.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/src/main/main.iml" filepath="$PROJECT_DIR$/FtcRobotController/src/main/main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/FtcRobotController/build/generated/source/r/r.iml" filepath="$PROJECT_DIR$/FtcRobotController/build/generated/source/r/r.iml" />
+    </modules>
+  </component>
+</project>

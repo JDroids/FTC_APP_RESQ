@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="debug">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-717b6ab9229c658ed333c0e0aec35214bade42d4.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-2b7071da142a6da7c22995fc24699b4d0626c30e.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-0351cad7d628d8201e822b34e7418f0fe7a97420.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-324823a68b94e188a5eaea7ba77269a6fc0c1197.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-3dc373c8071527ddc3357fc9e247c273dfb16fbd.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FtcRobotController/build/intermediates/pre-dexed/debug/classes-31de4637a1462c5a289c455a83509ae3a9b483f5.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
